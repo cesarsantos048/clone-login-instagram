@@ -1,5 +1,5 @@
 # clone-login-instagram
 
-** Para Vizualização *
+** Para Vizualização **
 
 https://cesaroet.github.io/clone-login-instagram/
